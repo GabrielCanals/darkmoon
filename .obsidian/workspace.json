@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regreso al Valle de Lunaoscura/Objetos Mágicos/Objetos Mágicos.md",
+                "file": "Regreso al Valle de Lunaoscura/NPCs/Viaje/Athôr Arafir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetos Mágicos"
+              "title": "Athôr Arafir"
             }
           }
         ],
@@ -235,23 +235,23 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "moulinette:Moulinette Browser": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "96d12b3bc4c39101",
   "lastOpenFiles": [
-    "Pasted image 20250302130808.png",
-    "Pasted image 20250302130455.png",
-    "Pasted image 20250302130445.png",
-    "Pasted image 20250302125622.png",
-    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125510.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125622.png",
     "Regreso al Valle de Lunaoscura/Objetos Mágicos/Objetos Mágicos.md",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302130808.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302130455.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302130445.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125510.png",
     "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125501.png",
     "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125414.png",
     "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125408.png",
     "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302124920.png",
     "Pasted image 20250302125134.png",
-    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302124914.png",
     "Regreso al Valle de Lunaoscura/Personajes/Isabel.md",
     "Regreso al Valle de Lunaoscura/Objetos Mágicos",
     "Regreso al Valle de Lunaoscura/Personajes/Audar Gadsel.md",
