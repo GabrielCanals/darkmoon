@@ -1,1 +1,1 @@
-![[AlbedoBase_XL_dnd_old_elf_male_wizard_dark_eyes_2.jpg]]
+![[Pasted image 20250303185410.png]]
