@@ -1,9 +1,5 @@
+![[Vaatara Daskil 1.png]]
 
-```RpgManager4
-id: 
-  type: "nonplayercharacter"
-  campaign: "Regreso al Valle de Lunaoscura/Regreso al Valle de Lunaoscura.md"
-data: 
   description: "Ella es una mujer humana de pelo corto y negro con mirada seria y sonrisa dificil. Es una cazarrecompensas que lleva años recorriendo las tierras de Garund en busca de artefactos de gran valor en compañía de su amado y sus compañeros."
   occupation: "Cazarrecompensas. Aunque se hace pasar por comerciante."
   arc: 3
@@ -16,12 +12,3 @@ data:
   weaknesses: 2229264
   beliefs: "Cuando obtuvo a Garloc Gut como esclavo, lo liberó y se enamoró de él. Afirmó que pasaría el resto de días con él si completaban la vuelta a Garund y regresaban a Absalom."
   behaviour: "Vaatara es reservada y seria. No confía en nadie a no ser que sea necesario o necesite algo de la otra persona."
-  stake: ""
-tasks: []
-images: 
-  - path: "Assets/Vaatara Daskil 1.png"
-    caption: ""
-```
-
-
-[[Regreso al Valle de Lunaoscura/Regreso al Valle de Lunaoscura.md|]]
