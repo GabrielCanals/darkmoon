@@ -3,7 +3,7 @@
 - [[Fausto Durnham]]
 - [[Audar Gadsel]]
 - [[Toric Vef]]
-- [[Isabel]]
+- [[Serena Foxleaf]]
 
 ### NPCs
 

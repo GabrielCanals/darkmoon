@@ -1,7 +1,7 @@
 ![[Pasted image 20250223110745.png]]
 ### Resumen
 
-Humano fighter hijo de los Durnham. Siguiendo los pasos de su padre se convirtió en guardia de Hondonada del Halcón. Su padre, con sus arranques de furia estaba hundiendo a la familia, entristeciendo a la madre, olvidando a la hermana y corrompiendo a su hermano. Este último estuvo maquinando con contrabandistas de la zona. Fausto creció aprendiendo a luchar para entrenarse, compaginando con unos básicos estudios mágicos en la torre de Shavaros Vade juntos a [[Audar Gadsel]] y a [[Isabel]]. Justo antes de los acontecimientos ocurridos antes de la [[Sesión 1]], Fausto descubrió a su hermano haciendo trapicheos con los contrabandistas.
+Humano fighter hijo de los Durnham. Siguiendo los pasos de su padre se convirtió en guardia de Hondonada del Halcón. Su padre, con sus arranques de furia estaba hundiendo a la familia, entristeciendo a la madre, olvidando a la hermana y corrompiendo a su hermano. Este último estuvo maquinando con contrabandistas de la zona. Fausto creció aprendiendo a luchar para entrenarse, compaginando con unos básicos estudios mágicos en la torre de Shavaros Vade juntos a [[Audar Gadsel]] y a [[Serena Foxleaf]]. Justo antes de los acontecimientos ocurridos antes de la [[Sesión 1]], Fausto descubrió a su hermano haciendo trapicheos con los contrabandistas.
 
 ### NPCs
 
