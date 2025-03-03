@@ -1,0 +1,1 @@
+Expulsando aserrín al [[Río Espuma]], los equipos madereros trabajan en el aserradero sin descanso. La mayoría de los madereros viven en chozas estrechas que rodean el Aserradero. El capataz del aserradero no es otro que [[Dan Larko]], cuarta generación de los [[Larko]] en el pueblo.
