@@ -1,1 +1,0 @@
-El magistrado [[Vamros Harg]] administra licencias comerciales, certifica reclamos de minería y tala, y dicta sentencias en casos penales y civiles desde este sólido edificio de troncos. 

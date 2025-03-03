@@ -1,3 +1,0 @@
-[[Hondonada del Halcón]] cuenta con pocos clérigos. A pesar de la competencia casi nula de otras creencias y de un historial demostrado de cuidado hacia los residentes de la ciudad, el enano [[Estiu Tardor]] sigue luchando por ganar adeptos en la población
-
-Estiu puede ser visto regularmente en las casas de los pueblerinos o incluso en el aserradero ayudando en pequeñas tareas o dando clases a los jóvenes del pueblo en una de las salas del templo.

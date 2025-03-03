@@ -1,1 +1,0 @@
-La familia [[Alradar]] fue la última en llegar a Hondonada del Halcón, hace ya 20 años. Desde entonces compran parte de la producción de madera para trabajar el papel y sacar beneficio a dicha industria. Buhoneros de todo el mundo vienen hasta el Molino de Papel para comprar lo que consideran una ganga.

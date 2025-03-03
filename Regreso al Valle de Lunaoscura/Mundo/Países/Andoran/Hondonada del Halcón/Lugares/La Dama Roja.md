@@ -1,3 +1,0 @@
-La Dama Roja es una taberna y sala de juegos propiedad del orco [[Kabran Ojoenriste]].
-
-Además de sus ojos rojos como la sangre, la característica más llamativa de Kabran es su nariz perdida, cortada de su rostro hace años en una ciudad lejana como castigo por sus crímenes allí. Porta una pieza de bronce sobre el cráter de su rostro, que emite un silbido inquietante cuando succiona aire a través de ella, y siempre gotea sangre y mucosidad, que limpia con un pañuelo carmesí.

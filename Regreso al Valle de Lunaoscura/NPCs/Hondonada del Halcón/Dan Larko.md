@@ -1,1 +1,0 @@
-![[AlbedoBase_XL_full_body_dnd_dark_redhead_male_lumber_npc_adult_2.jpg]]
