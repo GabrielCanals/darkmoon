@@ -1,0 +1,5 @@
+A pesar de su juventud y de haber vivido siempre en la seguridad de [[Hondonada del Halcón]], una tragedia los arranca de su hogar, lanzándolos a un mundo vasto y desconocido. Decididos a regresar, emprenden un arduo viaje a través de los senderos de Golarion, enfrentándose a bosques sombríos, climas implacables y aldeas llenas de extraños con historias inquietantes.
+
+De niños, solían escuchar a los adultos susurrar sobre el [[Valle de Lunaoscura]], un lugar del que hablaban con temor reverencial, lleno de criaturas que solo existían en las peores pesadillas. Hasta ahora, esas historias eran solo cuentos para asustar a los pequeños. Pero, a medida que el viaje los lleva más lejos de la seguridad que conocían, comienzan a descubrir que los monstruos de las historias no solo son reales, sino que han estado esperando.
+
+Ahora, deberán enfrentarse a ese peligro desconocido y encontrar el camino de regreso para salvar lo que hasta entonces conocían como su tranquilo hogar.

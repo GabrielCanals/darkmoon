@@ -1,0 +1,622 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1738769080699,
+      "markers": [
+        {
+          "id": "ID_785aaaaaaa0b",
+          "type": "default",
+          "loc": [
+            621.988802401217,
+            622.2539674441618
+          ],
+          "link": "El Molino de Papel",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb38e9aa187a",
+          "type": "default",
+          "loc": [
+            347.63137130083646,
+            838.6286424872454
+          ],
+          "link": "El Almacén de Madera",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bfbaa394a68",
+          "type": "default",
+          "loc": [
+            547.0354835954429,
+            1537.2501422995545
+          ],
+          "link": "El Mercado Bajo",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8949091849c8",
+          "type": "default",
+          "loc": [
+            176.51153025369194,
+            1704.1273426595797
+          ],
+          "link": "El Puerto del Ferry",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1878d8491aa8",
+          "type": "default",
+          "loc": [
+            358.9450797998212,
+            1458.0541828066612
+          ],
+          "link": "La Dama Roja",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88e9c9885a69",
+          "type": "default",
+          "loc": [
+            467.83952410254955,
+            1424.1130573097068
+          ],
+          "link": "Ganso y Gandul",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9392b69bab8",
+          "type": "default",
+          "loc": [
+            603.6040260903667,
+            1439.6694064958108
+          ],
+          "link": "Jak-a'-Napes",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a8b8aea1bc9",
+          "type": "default",
+          "loc": [
+            830,
+            1410
+          ],
+          "link": "Raíces y Remedios",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34558823529411764,
+            -0.2858126721763085
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7959f89bc9f9",
+          "type": "default",
+          "loc": [
+            657.3441414605443,
+            1602.303966168717
+          ],
+          "link": "El Tribunal de Hondonada",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ad8b8daca59",
+          "type": "default",
+          "loc": [
+            1131.105684855531,
+            1450.9831149947956
+          ],
+          "link": "El Pato Sentado",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97be80b0928",
+          "type": "default",
+          "loc": [
+            1224.4437799721554,
+            1639.0735187904172
+          ],
+          "link": "Sede del Consorcio Maderero",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99b87a1bdac8",
+          "type": "default",
+          "loc": [
+            1215.9584985979168,
+            1902.117241391813
+          ],
+          "link": "La Torre de Vade",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8482a2b0849",
+          "type": "default",
+          "loc": [
+            1027.8680948022952,
+            1742.3111088436533
+          ],
+          "link": "El Mercado Alto",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8ab5a18c868",
+          "type": "default",
+          "loc": [
+            371.93816690412405,
+            659.0235200658624
+          ],
+          "link": "Aserradero del Hueco del Halcón",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16152537256516236,
+            -0.12807788116533197
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea2bd9785a99",
+          "type": "default",
+          "loc": [
+            941.4375,
+            1584
+          ],
+          "link": "La Mansión de Kreed",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Regreso al Valle de Lunaoscura/Mundo/Países/Andoran/Hondonada del Halcón/Hondonada del Halcón.md"
+      ]
+    },
+    {
+      "id": "HondonadaDelHalcón",
+      "lastAccessed": 1738769332452,
+      "markers": [
+        {
+          "id": "ID_d84bbabb29e8",
+          "type": "default",
+          "loc": [
+            395.4375,
+            601.5
+          ],
+          "link": "Aserradero del Hueco del Halcón",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a87a995b687a",
+          "type": "default",
+          "loc": [
+            335.4375,
+            859.5
+          ],
+          "link": "El Almacén de Madera",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a9a1ab8aabb",
+          "type": "default",
+          "loc": [
+            609.4375,
+            637.5
+          ],
+          "link": "El Molino de Papel",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_588a197a9bea",
+          "type": "default",
+          "loc": [
+            721.4375,
+            875.5
+          ],
+          "link": "Templo de Iomedae",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9187af908d8",
+          "type": "default",
+          "loc": [
+            479.4375,
+            1427.5
+          ],
+          "link": "Ganso y Gandul",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b808681b8919",
+          "type": "default",
+          "loc": [
+            361.4375,
+            1475.5
+          ],
+          "link": "La Dama Roja",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da3ba8488aab",
+          "type": "default",
+          "loc": [
+            186,
+            1738
+          ],
+          "link": "El Puerto del Ferry",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42598039215686273,
+            -0.0640495867768595
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad9aa7a49b8",
+          "type": "default",
+          "loc": [
+            535.4375,
+            1565.5
+          ],
+          "link": "El Mercado Bajo",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_792ba80bcb09",
+          "type": "default",
+          "loc": [
+            1037.4375,
+            1745.5
+          ],
+          "link": "El Mercado Alto",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bd9082acb5b",
+          "type": "default",
+          "loc": [
+            1185.4375,
+            1895.5
+          ],
+          "link": "La Torre de Vade",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b28e9193b6a",
+          "type": "default",
+          "loc": [
+            1159.4375,
+            1621.5
+          ],
+          "link": "Sede del Consorcio Maderero",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97ab80a9acb",
+          "type": "default",
+          "loc": [
+            923.4375,
+            1561.5
+          ],
+          "link": "La Mansión de Kreed",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1999e88a7b1a",
+          "type": "default",
+          "loc": [
+            839.4375,
+            1417.5
+          ],
+          "link": "Raíces y Remedios",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7838bbbb8949",
+          "type": "default",
+          "loc": [
+            614,
+            1432
+          ],
+          "link": "Jak-a'-Napes",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3509803921568627,
+            -0.21143250688705234
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebdb8a4a9b0a",
+          "type": "default",
+          "loc": [
+            645.4375,
+            1609.5
+          ],
+          "link": "El Tribunal de Hondonada",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98db9bbb59f8",
+          "type": "default",
+          "loc": [
+            1139.4375,
+            1463.5
+          ],
+          "link": "El Pato Sentado",
+          "layer": "%5B%5BHondonada%20del%20Halc%C3%B3n.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Regreso al Valle de Lunaoscura/Mundo/Países/Andoran/Hondonada del Halcón/Hondonada del Halcón.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-pin",
+    "color": "#e53838",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false,
+    "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAPRJREFUSEvdlv0NhCAMxWESVtFJ0EmESYRJdBQ34dImmCpf9fTuD5uYmCjvV57NQxlCCOKHJa8AxnEUSilhjGG3lACcc8J7jwJaazEMA96DOBQAoLiQBAALrbUoMk0TCkVxAG7bhhcXUgUsy3LYTd/3KDzPMxtSBJTEo/lcSBbQdV228/OX5UCyU0Q9j7aUxqYFSQBXxDl2HQDfiLcgO+COeA2CgCfESxAErOsqYHKklOwIqL0I8bZr0ix6EhAbOHzkvwLOKZ7LKGoTbY6uLe7g3QA4IyC6adFIuW1Ra5ZfDKA+woFDi57VLYvo2kt/FS3h3PMPmXo0yH9Jsv0AAAAASUVORK5CYII="
+  },
+  "markerIcons": [
+    {
+      "type": "House",
+      "iconName": "map-pin",
+      "color": "#e53838",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAPRJREFUSEvdlv0NhCAMxWESVtFJ0EmESYRJdBQ34dImmCpf9fTuD5uYmCjvV57NQxlCCOKHJa8AxnEUSilhjGG3lACcc8J7jwJaazEMA96DOBQAoLiQBAALrbUoMk0TCkVxAG7bhhcXUgUsy3LYTd/3KDzPMxtSBJTEo/lcSBbQdV228/OX5UCyU0Q9j7aUxqYFSQBXxDl2HQDfiLcgO+COeA2CgCfESxAErOsqYHKklOwIqL0I8bZr0ix6EhAbOHzkvwLOKZ7LKGoTbY6uLe7g3QA4IyC6adFIuW1Ra5ZfDKA+woFDi57VLYvo2kt/FS3h3PMPmXo0yH9Jsv0AAAAASUVORK5CYII=",
+      "tags": [
+        "house"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

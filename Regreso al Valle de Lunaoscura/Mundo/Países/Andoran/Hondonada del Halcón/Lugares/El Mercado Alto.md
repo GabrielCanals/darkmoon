@@ -1,0 +1,3 @@
+Quizás la mayor atracción del Mercado Alto es que vende carnes y vegetales sin un rastro de podredumbre. Los residentes influyentes compran en los diversos puestos importaciones de ciudades distantes y, ocasionalmente, productos locales de calidad excepcional.
+
+La exmercenaria [[Ayda Vorshin]] organiza caravanas semanales hacia y desde [[Olfden]], abasteciendo el mercado con ropa de seda, zapatos, especias y joyas. Artistas locales como [[Devira Gadsel]], conocida por sus tallas de madera y joyería hecha a mano, también ofrecen sus productos entre las importaciones. Este mercado es una de las pocas oportunidades en el Hondonada del Halcón para adquirir bienes de calidad que cuesten más de 10 monedas de oro.

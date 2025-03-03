@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "b5aced4fe09d8665",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb269c84257aac1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87fc9e373a266962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regreso al Valle de Lunaoscura/Enemigos/Mímico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mímico"
+            }
+          },
+          {
+            "id": "b4e75301d1de15ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Regreso al Valle de Lunaoscura/Imágenes/artwork (3).png"
+              },
+              "icon": "lucide-image",
+              "title": "artwork (3)"
+            }
+          },
+          {
+            "id": "67e8aafaa8204540",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Regreso al Valle de Lunaoscura/Imágenes/artwork (3).png"
+              },
+              "icon": "lucide-image",
+              "title": "artwork (3)"
+            }
+          },
+          {
+            "id": "96d12b3bc4c39101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regreso al Valle de Lunaoscura/Objetos Mágicos/Objetos Mágicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetos Mágicos"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f581919472ec5358",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a8af05490465cb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47634d20244c8b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7a53937cd1a4ef0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2822f25d1fc1d8ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 448.5
+  },
+  "right": {
+    "id": "6108ca330921bbff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c01a34d1d4af0df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b75143896d35624",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regreso/Regreso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Regreso"
+            }
+          },
+          {
+            "id": "9cf46835a1f97b4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regreso/Regreso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Regreso"
+            }
+          },
+          {
+            "id": "ef614547815c6368",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68160830b20b01b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regreso al Valle de Lunaoscura/NPCs/Viaje/Athôr Arafir.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Athôr Arafir"
+            }
+          },
+          {
+            "id": "c3ce1a2cdc3d9a14",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a4aae2fe75d422f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9fb72902c1d6edf",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 520.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "rpg-manager:RPG Manager": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "moulinette:Moulinette Browser": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "96d12b3bc4c39101",
+  "lastOpenFiles": [
+    "Pasted image 20250302130808.png",
+    "Pasted image 20250302130455.png",
+    "Pasted image 20250302130445.png",
+    "Pasted image 20250302125622.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125510.png",
+    "Regreso al Valle de Lunaoscura/Objetos Mágicos/Objetos Mágicos.md",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125501.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125414.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302125408.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302124920.png",
+    "Pasted image 20250302125134.png",
+    "Regreso al Valle de Lunaoscura/Imágenes/Pasted image 20250302124914.png",
+    "Regreso al Valle de Lunaoscura/Personajes/Isabel.md",
+    "Regreso al Valle de Lunaoscura/Objetos Mágicos",
+    "Regreso al Valle de Lunaoscura/Personajes/Audar Gadsel.md",
+    "Regreso al Valle de Lunaoscura/Personajes/Fausto Durnham.md",
+    "Regreso al Valle de Lunaoscura/Personajes/Toric Vef.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Fundamentales/Dedalete.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Viaje/Garloc Gut.md",
+    "Regreso al Valle de Lunaoscura/Enemigos/Esqueleto.md",
+    "Regreso al Valle de Lunaoscura/Enemigos/Mímico.md",
+    "Regreso al Valle de Lunaoscura/Trama/Sesiones/Sesión 1.md",
+    "Regreso al Valle de Lunaoscura/Música/Música.md",
+    "Regreso al Valle de Lunaoscura/Trama/Contexto.md",
+    "Regreso al Valle de Lunaoscura/Mundo/Países/Andoran/Bosque de la Noche.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Jak Crimmy.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Devira Gadsel.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Arla Durnham.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Estiu Tardor.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Jasin Granroble.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Liselle Durnham.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Kreed.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Trotavisco Alforjacantos.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Loran Durnham.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Laurel Gebre.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Hondonada del Halcón/Garron Durnham.md",
+    "Regreso al Valle de Lunaoscura/NPCs/Viaje/Vaatara Daskil.md",
+    "Assets",
+    "Regreso al Valle de Lunaoscura/NPCs/Viaje",
+    "Untitled.canvas",
+    "Regreso al Valle de Lunaoscura/Trama/Flashbacks",
+    "Regreso al Valle de Lunaoscura/Mundo/Países/Nex",
+    "Regreso al Valle de Lunaoscura/Mundo/Países/Yermos de Maná",
+    "Regreso al Valle de Lunaoscura/Mundo/Países/Geb",
+    "Regreso al Valle de Lunaoscura/NPCs/Tilxar",
+    "Regreso al Valle de Lunaoscura/Imágenes",
+    "Regreso al Valle de Lunaoscura/Música"
+  ]
+}

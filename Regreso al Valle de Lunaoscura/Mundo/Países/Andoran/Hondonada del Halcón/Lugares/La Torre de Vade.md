@@ -1,0 +1,3 @@
+La torre de [[Shavaros Vade]] se erige sobre la colina conocida como [[El Altillo]], en el borde este de Hondonada del Halcón. Vade, el ermitaño conjurador, lleva años sin salir más de una vez por quincena para acudir a [[El Mercado Bajo]] a comprar lo necesario para volver a encerrarse en la torre a seguir con sus extraños experimentos. Estos experimentos destacan por las luces que parecen salir de las ventanas de la torre durante la noche.
+
+A pesar de ello Vade sale una vez al año de la Torre para acudir al [[Templo de Iomedae]]. En dicha ocasión acude a las lecciones de [[Estiu Tardor]], con el objetivo de comprobar si alguno de los jóvenes presenta dotes extraordinarias.

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/Trama\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8595599
+      }
+    },
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/NPCs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3646521
+      }
+    },
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/Sesiones\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15608619
+      }
+    },
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/Personajes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3236548
+      }
+    },
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/Mundo/Países/Andoran/Hondonada del Halcón/Lugares\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11635749
+      }
+    },
+    {
+      "query": "path:\"Regreso al Valle de Lunaoscura/Mundo/Países/Andoran\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.359375,
+  "repelStrength": 5.9375,
+  "linkStrength": 1,
+  "linkDistance": 380,
+  "scale": 0.40252075423479217,
+  "close": false
+}

@@ -1,0 +1,5 @@
+Abierto para todos, el Mercado Bajo incluye productos que ya no están lo suficientemente frescos para los clientes preferidos de [[El Mercado Alto]], carnes fuertemente saladas y otros alimentos cuestionables, la mayoría de los cuales apenas sobreviven al viaje hasta el mercado. Nada en el Mercado Bajo se vende por más de unas pocas piezas de oro, y casi nada vale más que unas cuantas monedas de cobre.
+
+El robusto [[Jasin Granroble]], llamado "Gran Bobo" por los niños crueles, organiza los diversos puestos y carretas del mercado. De buen carácter pero con pocas luces, rara vez pasa un pensamiento sobrio por su cabeza.
+
+El Mercado Bajo está frecuentado por gentes de clase baja, agricultores de las tierras cercanas y marginados. Algunos puestos destartalados sirven cerveza y aguardiente de luna que induce ceguera, alimentando las fiestas de los leñadores y convirtiendo el hurto en una perspectiva fácil.
