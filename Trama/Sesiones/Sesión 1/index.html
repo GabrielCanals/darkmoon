@@ -1,0 +1,3489 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../Resumen/">
+      
+      
+        <link rel="next" href="../../../blog/">
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.7">
+    
+    
+      
+        <title>Sesión 1 - obsidian-mkdocs template</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#protagonistas" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="obsidian-mkdocs template" class="md-header__button md-logo" aria-label="obsidian-mkdocs template" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            obsidian-mkdocs template
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sesión 1
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="obsidian-mkdocs template" class="md-nav__button md-logo" aria-label="obsidian-mkdocs template" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    obsidian-mkdocs template
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Enemigos
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Enemigos
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Enemigos/Esqueleto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Esqueleto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Enemigos/M%C3%ADmico/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mímico
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Enemigos/Objetos%20animados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Objetos animados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Handouts
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Handouts
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Noche%20en%20los%20Yermos%20de%20Man%C3%A1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Noche en los Yermos de Maná
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Crónicas de Shavaros Vade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Crónicas de Shavaros Vade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%201/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%2010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 10
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%202/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%203/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%204/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%205/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%206/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%207/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 7
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%208/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 8
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cap%C3%ADtulo%209/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capítulo 9
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cr%C3%B3nicas%20de%20Shavaros%20Vade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crónicas de Shavaros Vade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Nota%20final/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nota final
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Preludio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Preludio
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Mundo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Mundo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Golarion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Golarion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Países
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Países
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_1" id="__nav_4_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Andoran
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Andoran
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Andoran/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Andoran
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Bosque%20de%20la%20Noche/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bosque de la Noche
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/R%C3%ADo%20Espuma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Río Espuma
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Valle%20de%20Lunaoscura/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Valle de Lunaoscura
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_1_5" id="__nav_4_2_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Hondonada del Halcón
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_4_2_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Hondonada del Halcón
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Hondonada%20del%20Halc%C3%B3n/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hondonada del Halcón
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_1_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_1_5_2" id="__nav_4_2_1_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Lugares
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="5" aria-labelledby="__nav_4_2_1_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_1_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Lugares
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Aserradero%20del%20Hueco%20del%20Halc%C3%B3n/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aserradero del Hueco del Halcón
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Almac%C3%A9n%20de%20Madera/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Almacén de Madera
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Altillo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Altillo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Mercado%20Alto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Mercado Alto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Mercado%20Bajo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Mercado Bajo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Molino%20de%20Papel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Molino de Papel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Pato%20Sentado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Pato Sentado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Puerto%20del%20Ferry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Puerto del Ferry
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/El%20Tribunal%20de%20Hondonada/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    El Tribunal de Hondonada
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Ganso%20y%20Gandul/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ganso y Gandul
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Jak-a%27-Napes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jak a' Napes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/La%20Dama%20Roja/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    La Dama Roja
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/La%20Mansi%C3%B3n%20de%20Kreed/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    La Mansión de Kreed
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/La%20Torre%20de%20Vade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    La Torre de Vade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Ra%C3%ADces%20y%20Remedios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Raíces y Remedios
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Sede%20del%20Consorcio%20Maderero/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sede del Consorcio Maderero
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Andoran/Hondonada%20del%20Halc%C3%B3n/Lugares/Templo%20de%20Iomedae/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Templo de Iomedae
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_2" id="__nav_4_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Geb
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Geb
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Geb/Tilxar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tilxar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_3" id="__nav_4_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nex
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Nex
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Nex/Nex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nex
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2_4" id="__nav_4_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Yermos de Maná
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Yermos de Maná
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Yermos%20de%20Man%C3%A1/Alkenstar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Alkenstar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Mundo/Pa%C3%ADses/Yermos%20de%20Man%C3%A1/Reposo%20de%20Geb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reposo de Geb
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Música
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Música
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../M%C3%BAsica/Ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ambiente
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../M%C3%BAsica/M%C3%BAsica/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Música
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    NPCs
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            NPCs
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fundamentales
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Fundamentales
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Fundamentales/Dedalete/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dedalete
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Fundamentales/Shavaros%20Vade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shavaros Vade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Hondonada del Halcón
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Hondonada del Halcón
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Alradar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Alradar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Anira%20Saher/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anira Saher
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Arla%20Durnham/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arla Durnham
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Ausen%20Alradar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ausen Alradar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Ayda%20Vorshin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ayda Vorshin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Dan%20Larko/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dan Larko
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Delia%20Samkil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Delia Samkil
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Devira%20Gadsel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Devira Gadsel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Estiu%20Tardor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Estiu Tardor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Garron%20Durnham/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Garron Durnham
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Jak%20Crimmy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jak Crimmy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Jasin%20Granroble/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jasin Granroble
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Kabran%20Ojoenriste/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kabran Ojoenriste
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Karnus%20Samkil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Karnus Samkil
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Kreed/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kreed
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Larko/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Larko
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Laurel%20Gebre/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Laurel Gebre
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Liselle%20Durnham/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liselle Durnham
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Loran%20Durnham/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loran Durnham
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Masa%20Samkil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Masa Samkil
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Sammuel%20Larko/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sammuel Larko
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Thalsin%20Kreed/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thalsin Kreed
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Thuldrin%20Kreed/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thuldrin Kreed
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Trotavisco%20Alforjacantos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Trotavisco Alforjacantos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Vamros%20Harg/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vamros Harg
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tilxar
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Tilxar
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Tilxar/Androvius%20Lafhen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Androvius Lafhen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Tilxar/Lord%20Azshe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lord Azshe
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Tilxar/Nestro%20Nocte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nestro Nocte
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Tilxar/Nyctessa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nyctessa
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Viaje
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Viaje
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Viaje/Ath%C3%B4r%20Arafir/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Athôr Arafir
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Viaje/Garloc%20Gut/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Garloc Gut
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../NPCs/Viaje/Vaatara%20Daskil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vaatara Daskil
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Objetos Mágicos
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Objetos Mágicos
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Objetos%20M%C3%A1gicos/Objetos%20M%C3%A1gicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Objetos Mágicos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Personajes
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Personajes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Personajes/Audar%20Gadsel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Audar Gadsel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Personajes/Fausto%20Durnham/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fausto Durnham
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Personajes/Serena%20Foxleaf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Serena Foxleaf
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Personajes/Toric%20Vef/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Toric Vef
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Trama
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Trama
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Contexto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contexto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Presentaci%C3%B3n/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Presentación
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Resumen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resumen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9_4" id="__nav_9_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Sesiones
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9_4">
+            <span class="md-nav__icon md-icon"></span>
+            Sesiones
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Sesión 1
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Sesión 1
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#protagonistas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Protagonistas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#npcs" class="md-nav__link">
+    <span class="md-ellipsis">
+      NPCs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resumen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sesion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sesión
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#protagonistas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Protagonistas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#npcs" class="md-nav__link">
+    <span class="md-ellipsis">
+      NPCs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resumen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sesion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sesión
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Sesión 1</h1>
+
+<h3 id="protagonistas">Protagonistas<a class="headerlink" href="#protagonistas" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../../Personajes/Fausto%20Durnham/">Fausto Durnham</a></li>
+<li><a href="../../../Personajes/Audar%20Gadsel/">Audar Gadsel</a></li>
+<li><a href="../../../Personajes/Toric%20Vef/">Toric Vef</a></li>
+<li><a href="../../../Personajes/Serena%20Foxleaf/">Serena Foxleaf</a></li>
+</ul>
+<h3 id="npcs">NPCs<a class="headerlink" href="#npcs" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../../NPCs/Fundamentales/Shavaros%20Vade/">Shavaros Vade</a></li>
+<li><a href="../../../NPCs/Tilxar/Androvius%20Lafhen/">Androvius Lafhen</a></li>
+<li><a href="../../../NPCs/Fundamentales/Dedalete/">Dedalete</a></li>
+<li><a href="../../../NPCs/Viaje/Vaatara%20Daskil/">Vaatara Daskil</a></li>
+<li><a href="../../../NPCs/Viaje/Garloc%20Gut/">Garloc Gut</a></li>
+<li><a href="../../../NPCs/Viaje/Ath%C3%B4r%20Arafir/">Athôr Arafir</a></li>
+<li><a href="../../../NPCs/Tilxar/Nestro%20Nocte/">Nestro Nocte</a></li>
+<li><a href="../../../NPCs/Tilxar/Lord%20Azshe/">Lord Azshe</a></li>
+</ul>
+<h3 id="resumen">Resumen<a class="headerlink" href="#resumen" title="Permanent link">&para;</a></h3>
+<p>Los protagonistas se despiertan en una casa, en el suelo. Junto a ellos hay varias personas muertas y todos están muy heridos. Se encuentran en la población de Tilxar, en el país de no-muertos de Geb. Allí conocen al primo de Shavaros Vade, Androvius Lafhen, que les enseña el pueblo e intentan decidir qué van a hacer. Por último, les lleva a entrenarse en lo que esperan a una caravana para que les lleve a casa.</p>
+<h3 id="sesion">Sesión<a class="headerlink" href="#sesion" title="Permanent link">&para;</a></h3>
+<p><strong>Es el año 4750 del Reconocimiento de Absalom (RA), y el mundo gira bajo la mirada de dioses antiguos y ambiciones mortales. Este vasto y diverso orbe está marcado por imperios caídos, naciones en guerra y tierras salvajes llenas de maravillas y peligros. Desde los helados glaciares de los Páramos del Reino Mamút hasta los dorados desiertos de Osirion, cada rincón de este mundo encierra historias de gloria, magia y misterio.</strong><br />
+<strong>En esta ocasión nos detendremos al oeste del Mar Interior, entre los bosques ancestrales de las Colinas de Arthfell y las aguas resplandecientes del río Andoshen, se alza Andoran, una nación sin reyes ni nobles, donde cada ciudadano tiene voz y voto en el destino de su patria. En un mundo donde imperios y monarquías dominan con puño de hierro, Andoran brilla como un faro de libertad, igualdad y justicia.</strong></p>
+<p><strong>Antes de su independencia, Andoran era una provincia bajo el dominio de Cheliax, sometida a las leyes de la nobleza y la brutal autoridad de sus señores infernales. Sin embargo, cuando Cheliax cayó en decadencia tras la desaparición de Aroden, el pueblo andorano se alzó en la Revolución de la Libertad (4669 RA), expulsando a los aristócratas y estableciendo la primera república de Golarion. Desde entonces, Andoran ha sido un bastión de ideales democráticos, luchando por la abolición de la esclavitud y la expansión de los derechos individuales.</strong></p>
+<p><strong>Para un andorano, la libertad no es solo un derecho, sino un deber. Desde el más humilde pescador hasta el más influyente miembro del Consejo, todos creen en la promesa de un mundo donde la nobleza no determine el destino de los hombres. Son apasionados, idealistas y valientes, dispuestos a luchar contra la opresión en todas sus formas.</strong></p>
+<p><strong>"Por la Libertad y el Pueblo" no es solo el lema de Andoran, sino un grito de guerra, un ideal por el que vale la pena vivir… y morir.</strong></p>
+<p><strong>Ahora, viajemos hasta el lugar donde da inicio nuestra historia. Hondonada del Halcón es, en todos los sentidos, un pueblo maderero. La mayoría de los edificios tienen paredes de troncos o están revestidos con tablones de madera. Los techos están cubiertos con tejas de madera. Aunque en su mayor parte el pueblo tiene un aspecto tosco, algunas casas destacan por su ornamentación cuidadosamente elaborada, que refleja el orgullo de sus dueños: molduras decorativas, cornisas talladas, parteluces en las ventanas y delicadas incrustaciones en los muebles.</strong></p>
+<p><strong>Los aserraderos son la prueba más evidente de la industria del pueblo, junto con los granjeros circundantes y los buhoneros de paso, camino de mayores poblaciones.</strong></p>
+<p><strong>La noche es un torbellino de fuego y sombras. Corres. No sabes por qué, pero cada fibra de tu ser grita que no te detengas. Tu respiración es entrecortada, tus piernas pesan, tu brazo izquierdo cuelga inútilmente y la sangre resbala por tu frente. Alguien grita tu nombre.  FAUSTO. Detrás de ti, la tierra se quiebra y la oscuridad se extiende como una bestia hambrienta y..."</strong></p>
+<p><strong>"Luego, un destello. Una presión en el pecho, como si el aire fuera arrancado de tus pulmones. Sientes que caes, giras en el vacío, el mundo se pliega sobre sí mismo, tu cuello se tuerce, quiere girar más allá de lo que el cuerpo está preparado para soportar…"</strong></p>
+<p><strong>"Y abres los ojos."</strong></p>
+<p><strong>A quién estamos viendo ¿Fausto?</strong></p>
+<p><strong>El suelo es de piedra fría y húmeda. Tu cuerpo duele como si hubieras sido golpeado por un gigante. Intentas recordar… pero todo lo que hay en tu mente es el eco de un grito y la imagen de un círculo de luz antes de que todo se apagara.</strong> </p>
+<p><strong>Mientras se te aclara la vista embotada por la conmoción, ves a <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Estiu%20Tardor/">Estiu Tardor</a>, el clérigo de Hondonada del Halcón, con una cuchilla clavada en el cuello, desangrándose. A su lado, el pequeño <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Ausen%20Alradar/">Ausen Alradar</a>, de 5 años, tiene una flecha clavada en el pecho y permanece inerte. Estás tirado en el suelo. En shock. Una lágrima cae por tu rostro, recorriendo una mejilla con un corte abierto.</strong></p>
+<p><strong>A tu lado, cuerpos. No te da tiempo a ponerte a contar cuántos. Te fijas en el que tienes junto a ti. Audar. Tu mejor amigo, muerto.</strong></p>
+<p><strong>"Y abres los ojos."</strong></p>
+<p><strong>Hay una decena de cuerpos en el suelo, y tú eres uno de ellos. El dolor que te recorre la cabeza es horrible, como si el peso de 5 cielos te hubieran caído encima. A quién estamos viendo ¿Toric? Consigues ponerte más o menos en pie, te tambaleas y vuelves a caer. El vaivén constante de la estancia te impide mantenerte por más de unos segundos. La estancia entera se mueve, los cuerpos balanceándose de un lado al otro. Una bolsa de tela bordada que parece estar arrastrándose y separándose de la marabunta. No te da tiempo a fijarte en mucho más pues el mareo es tan horrible que vuelves a desmayarte.</strong></p>
+<p><strong>"Y abres los ojos."</strong></p>
+<p><strong>No tienes ni idea de cómo has llegado hasta aquí. El mareo que sientes es una de las pocas cosas que has experimentado en este mundo que te han desorientado tanto. Es... gracioso, es tan gracioso que te está entrando una risa tonta. A quién estamos viendo? La risa que te acompaña parece que ya no la controlas tu, sino que parece venir de dentro de ti. "JAJJAJAJAJA, todavía no Princesita, todavía tiene algo que ofrecerme". Abres los ojos y donde ves que había un corte horroroso en la parte inferior de su abdomen, se está cerrando solo, salvándote la vida. El cansancio que sientes te supera, no puedes mover ni un músculo de lo reventada que estás, pero tienes la suficiente fuerza para seguir riendo.</strong></p>
+<p><strong>“Abre los ojos, por favor”</strong></p>
+<p><strong>Una voz melodiosa, como solo los ángeles podrían hacerla sonar. Una voz dulce, que con cada palabra podría hacer saltar las lágrimas del bardo más experimentado. Una voz que te pide, que por favor, despiertes y vuelvas a respirar, Audar. A quien estamos viendo ¿Audar? Abres los ojos y ves a  Fausto ¿llorando? Pocas veces ha ocurrido eso pero, ¿qué era esa voz? ¿por qué te duele tanto todo el cuerpo? Estás muy cansado… Miras a un lado, pues de repente un brisa entra en la habitación desde lo que parece ser el fondo de la sala. Una puerta abierta, alguien, hablando. "PERO QUÉ COÑO"</strong></p>
+<hr />
+<p>Poco a poco los protagonistas se van levantando. Son los únicos de los diez cuerpos que hay en el círculo que pueden levantarse. Los otros seis (Estiu Tardor, Ausen Alradar, <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Delia%20Samkil/">Delia Samkil</a>, <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Dan%20Larko/">Dan Larko</a>, el pequeño <a href="../../../NPCs/Hondonada%20del%20Halc%C3%B3n/Sammuel%20Larko/">Sammuel Larko</a> y un hombre que ninguno es capaz de reconocer) yacen muertos por heridas graves o pérdida de sangre. 
+<a href="../../../NPCs/Tilxar/Androvius%20Lafhen/">Androvius Lafhen</a>, el misterioso hombre que acaba de entrar, camina de un lado a otro sin saber qué hacer. Es entrada la <strong>noche</strong>, por como se puede observar a través de la ventana y la estancia está iluminada por dos antorchas que emiten una luz de apariencia artificial. Se acerca a los cuerpos que aún no se han levantado y comprueba su estado, suspira al comprobar que han muerto. Luego, se acerca a un estante del que saca una caja con varias botellas de color borgoña. Las va dando a cada uno de nuestros protagonistas, insistiendo en que beban.</p>
+<p>Androvius se interesa por quienes son, de dónde vienen y qué les ha ocurrido. Tiene algún mapa antiguo de Avistan por algún lado, pues él mismo es oriundo de Absalom. Él es primo de Shavaros Vade. Varios miembros de su familia, duchos en distintas artes de la magia, decidieron conectar sus hogares mediante círculos de teleportación hace ya varios siglos. Sin embargo dejaron de usarlas y con el tiempo y el poco mantenimiento puede provocar heridas, conmoción y otros efectos quienes lo usen. Este es el caso de nuestros protagonistas, quienes han perdido la memoria de las últimas horas. Algunos de ellos recuerdan algo más que los otros. Si preguntan a Androvius, se encuentran en Tilxar, Geb.</p>
+<p>Después de ver cómo han podido morir cada uno de los fallecidos (Delia Samkil y Sammuel Larko tienen el cuello roto) Androvius pide que se relajen durante un rato mientras va a buscar a alguien.</p>
+<p><abbr title="Dedalete está haciendo ruido desde la bolsa que hay bajo una mesa, detrás de un sofá. La bolsa está muy decorada y al abrirla se ve un libro y tres botes de miel"> Percepción DC 12</abbr> : <a href="../../../NPCs/Fundamentales/Dedalete/">Dedalete</a> se encuentra por fuera de la bolsa desmayado e invisible. Se despierta automáticamente si se abre el libro, pues no está utilizando su conjuro de protección arcana para evitar que Droskar descubra dónde se encuentran. El libro es un tomo de tamaño grande, con un lomo bastante nuevo. Claramente el libro no ha sido abierto un gran número de veces. Una nota con un sello de cera permanece aferrado a la tapa: "NO ABRIR".  El libro en sí también cuenta con un sello que va desde la contraportada hasta la portada, siguiendo una tira de cuero. Este último sello sin embargo está roto, mostrando que el libro ha sido abierto con anterioridad. Si abren por la primera página llegarán al <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Preludio/">Preludio</a>
+ de las <a href="../../../Handouts/Cr%C3%B3nicas%20de%20Shavaros%20Vade/Cr%C3%B3nicas%20de%20Shavaros%20Vade/">Crónicas de Shavaros Vade</a>. El preludio está escrito es común. El resto está escrito en un idioma que no comprenden. Androvius lo puede identificar como sylvano antiguo, y cree que algunos de sus familiares tienen soltura en esa lengua, aunque Shavaros era el único que llegó a aprenderla completamente. Androvius tiene un primo en <a href="../../../Mundo/Pa%C3%ADses/Yermos%20de%20Man%C3%A1/Alkenstar/">Alkenstar</a> que alomejor tiene alguna pista.</p>
+<p>Androvius vuelve a la casa con <a href="../../../NPCs/Tilxar/Nestro%20Nocte/">Nestro Nocte</a>, un retornado artificial encargado de llevar a los cadáveres al mortuario. Nestro es un esqueleto humano, perfectamente visible y sin marcas de restos de carne en el cuerpo. Si los protagonistas preguntan, explica la naturalidad de [[Geb]] y su sociedad: Geb es un reino fundado por el rey Geb, hace ya más de 6000 años, y actualmente se encuentran en el segundo reinado de este rey. Este país cuenta con la libertad de inmortalidad para las personas que quieran vivir eternamente. Los extranjeros pueden venir a Geb y por una cómoda prestación su alma se atará a su cuerpo sin vida al morir para que puedan seguir con su vida. Los locales nacen ya con está bendición. Los Señores de la Sangre de cada ciudad ayudan al rey con su tarea de retornar a sus habitantes mortales.</p>
+<p><strong>Perspicacia CD 10</strong>: Evidentemente hay truco. Nestro no cuenta que para recibir esta maldición tu alma puede ser controlada en cualquier momento por el señor de la sangre que te haya retornado.</p>
+<p>Nestro recomienda a los protagonistas que se acostumbren a ellos mientras están en Geb, pues aquí la vida y la muerte convive con normalidad. Y ahora, señalando a los cuerpos de aquellos que han fallecido en el teletransporte, dice que se los va a llevar al mortuario de la ciudad para preguntarles si quieren retornar.</p>
+<p>Androvius acompaña a los protagonistas hasta su cocina y les pide que se sienten. Les sirve una masa amarilla de aspecto gelatinoso, frutas secas y rodajas de una extraña verdura. Insiste en que coman un poco, que les ayudará a que se les pase el viaje. Intenta que recuerden, en vano, qué ocurrió en Hondonada del Halcón y les pregunta qué quieren hacer ahora.</p>
+<p>Si Dedalete ha sido descubierto, se acerca a la mesa y pregunta llorando si le pueden ayudar. Quiere devolver el libro con su maestro. Es fundamental, crucial, que el libro regrese con él. No puede dar más explicaciones acerca del libro o del por qué.</p>
+<p>Androvius insiste en que deberían descansar, que de todas formas solo son unos jóvenes inexpertos y que no tiene sentido que vaguen por ahí. Si insisten en que quieren volver a casa, les dirá que está bien, y que no lo va a impedir. Hará lo que necesiten para ayudarles y tras pensar un minuto, cree tener una idea. No quiere darles falsas esperanzas, pero por la mañana les llevará a un sitio donde podrán poner a prueba sus capacidades y ver si están preparados para los que les espera en las tierras de Garund.</p>
+<p>Al día siguiente, Androvius les acompaña a través de Tilxar hacia una especie de templo, bajando unas escaleras llegan a una antesala, que da paso a una sala de mayor tamaño. Dentro se encuentran dos personas, Nestro, el ser esquelético del día anterior y <a href="../../../NPCs/Tilxar/Lord%20Azshe/">Lord Azshe</a>. Androvius les pide que pase sin ellos, que ya está todo preparado para el entrenamiento.</p>
+<p>El entrenamiento consiste en tres rondas de tres lecciones vitales. La primera consiste en aprender a matar cuando alguien o algo está dispuesto a matarte. En esta ronda Lord Azshe invocará a un esqueleto con espada que querrá enfrentarse a los protagonistas. La segunda consiste en la unidad, el grupo tiene que estar cohesionado para evitar que no se muera nadie. En este caso, Lord Azshe invocará tres esqueletos en los flancos débiles de los protagonistas. La última ronda consiste en huir, pues hay batallas por las que no merece la pena morir. En esta última ronda, Lord Azshe creará una imagen mayor de un Elemental de Fuego. El elemental acudirá a enfrentarse a ellos a toda prisa envolviéndose en su propio fuego, dándoles espacio para un turno. Si no se retiran el elemental se lanzará sobre ellos, desapareciendo en el acto.</p>
+<p>Al finalizar el entrenamiento y volver a la antesala encuentran a Androvius hablando con un enano de aspecto alegre. Este es <a href="../../../NPCs/Viaje/Ath%C3%B4r%20Arafir/">Athôr Arafir</a>, tercero al mando de la caravana de <a href="../../../NPCs/Viaje/Vaatara%20Daskil/">Vaatara Daskil</a>, quienes actualmente están buscando cierta protección para llegar a Absalom. El camino es largo, la caravana comercial tiene que hacer varias paradas y espera compensar gratamente a los protagonistas una vez lleguen a su destino. Además, el acuerdo incluiría las dietas y el equipo de viaje. </p>
+<p><a href="../../../NPCs/Viaje/Ath%C3%B4r%20Arafir/">Athôr Arafir</a> ha sido informado por Androvius que los protagonistas están interesados en viajar hacia el norte, y que puede tener algo de ayuda que ofrecerles. Les pide que le acompañen a conocer a sus asociados. Androvius les dice que los verá en su casa más tarde. Athôr los conduce hasta la taberna Brumarrosa. Dentro de esta posada se respira el humo de las shishas que hay encima de cada mesa. La música tocada con instrumentos de viento le dan una sensación psicodélica a la estancia. Athôr se dirige hacia uno de los laterales de la taberna, donde hay una mujer y un orco sentados riéndose mientras beben.</p>
+<p><a href="../../../NPCs/Viaje/Vaatara%20Daskil/">Vaatara Daskil</a> y <a href="../../../NPCs/Viaje/Garloc%20Gut/">Garloc Gut</a> forman juntos a Athôr una caravana con fines "comerciales". Vaatara no tiene problema en confesar que es una caza recompensas y que sus negocios incluyen la compra-venta y búsqueda de objetos mágicos de la mano de terceros o de lugares inexplorados. La paga por cuidar el carro es de 200 monedas de oro al día cada uno, llegando hasta 400 si aparte de los servicios de escolta y guardia, están dispuestos a obtener algunos de esos objetos mágicos para ella. La idea es llegar hasta Absalom antes de dos meses. La primera parada es <a href="../../../Mundo/Pa%C3%ADses/Yermos%20de%20Man%C3%A1/Reposo%20de%20Geb/">Reposo de Geb</a>, con una parada enmedio. Luego <a href="../../../Mundo/Pa%C3%ADses/Yermos%20de%20Man%C3%A1/Alkenstar/">Alkenstar</a>, donde cogerán un barco fluvial para atravesar <a href="../../../Mundo/Pa%C3%ADses/Nex/Nex/">Nex</a> a través del río Ustradi.</p>
+<p>Vaatara informa a los protagonistas de que partirán al amanecer, que no tienen tiempo que perder. Pregunta si alguno de ellos sabe montar a caballo, pues tienen un caballo de sobra para usar de explorador. </p>
+<p><strong>Percepción CD 17</strong>: En un momento dado escuchan a Garloc discutir con Vaatara. En esa conversación, Garloc asegura que los protagonistas no parece que tengan mucha idea de ser guardias, que sería mejor prescindir de ellos e intentar avanzar los tres solos.</p>
+<p>Si vuelven a casa de Androvius, este les deja pasar la noche ahí, los alimenta y les entrega una bolsa con pociones, las que le ha dado tiempo de preparar (3 de curación y 1 de mejorar habilidad).</p>
+<p>La partida termina con la party yéndose al día siguiente con la caravana de Vaatara, compuesta de tres carros guiados por cada uno de los tres miembros ya conocidos y un caballo batidor.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
