@@ -12,3 +12,4 @@
   weaknesses: 2229264
   beliefs: "Cuando obtuvo a Garloc Gut como esclavo, lo liberó y se enamoró de él. Afirmó que pasaría el resto de días con él si completaban la vuelta a Garund y regresaban a Absalom."
   behaviour: "Vaatara es reservada y seria. No confía en nadie a no ser que sea necesario o necesite algo de la otra persona."
+![[Pasted image 20250308130404.png]]

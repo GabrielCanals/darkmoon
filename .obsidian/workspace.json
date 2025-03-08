@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fb269c84257aac1a",
+        "id": "2395172b2b8ad9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "87fc9e373a266962",
+            "id": "5ace6c2e99c69200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/NPCs/Hondonada del Halcón/Delia Samkil.md",
+                "file": "docs/NPCs/Fundamentales/Shavaros Vade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delia Samkil"
+              "title": "Shavaros Vade"
+            }
+          },
+          {
+            "id": "fec6dfddbe0470ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Música/Música.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Música"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 520.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,44 +226,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47634d20244c8b9d",
+  "active": "fec6dfddbe0470ed",
   "lastOpenFiles": [
-    "docs/Imagenes/Pasted image 20250303203042.png",
-    "docs/Trama/Sesiones/Sesión 1.md",
+    "docs/Música/Ambiente.md",
+    "docs/Imagenes/Pasted image 20250303190221.png",
+    "docs/NPCs/Fundamentales/Shavaros Vade.md",
+    "docs/Música/Música.md",
+    "docs/Imagenes/serena.png",
+    "docs/Imagenes/Pasted image 20250308130234.png",
+    "docs/NPCs/Fundamentales/Dedalete.md",
+    "docs/Imagenes/Pasted image 20250308130810.png",
+    "docs/NPCs/Viaje/Vaatara Daskil.md",
+    "docs/Imagenes/Pasted image 20250308130404.png",
+    "docs/NPCs/Viaje/Garloc Gut.md",
+    "docs/Imagenes/Pasted image 20250308130326.png",
+    "docs/NPCs/Viaje/Athôr Arafir.md",
+    "docs/Handouts/Crónicas de Shavaros Vade/Preludio.md",
+    "docs/Handouts/Crónicas de Shavaros Vade/Crónicas de Shavaros Vade.md",
+    "docs/Personajes/Serena Foxleaf.md",
+    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_illustration_featuring_a_whi_1.jpg",
+    "docs/Objetos Mágicos/Objetos Mágicos.md",
+    "docs/Personajes/Toric Vef.md",
+    "docs/Imagenes/Pasted image 20250308105825.png",
+    "docs/Personajes/Fausto Durnham.md",
+    "docs/Personajes/Audar Gadsel.md",
+    "docs/Enemigos/Objetos animados.md",
+    "docs/Imagenes/Pasted image 20250308105855.png",
+    "docs/Imagenes/Pasted image 20250308105837.png",
+    "docs/Mundo/Países/Geb/Tilxar.md",
     "docs/NPCs/Hondonada del Halcón/Delia Samkil.md",
-    "docs/Imagenes/Pasted image 20250303202936.png",
+    "docs/Trama/Sesiones/Sesión 1.md",
     "docs/NPCs/Hondonada del Halcón/Ausen Alradar.md",
     "docs/NPCs/Hondonada del Halcón/Sammuel Larko.md",
-    "docs/Imagenes/Pasted image 20250303202845.png",
     "docs/Mundo/Países/Nex/Nex.md",
     "docs/Mundo/Países/Yermos de Maná/Alkenstar.md",
-    "docs/Imagenes/Pasted image 20250303202430.png",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb.md",
     "docs/NPCs/Tilxar/Lord Azshe.md",
     "docs/NPCs/Tilxar/Nestro Nocte.md",
-    "docs/NPCs/Tilxar/Nyctessa.md",
-    "docs/NPCs/Tilxar/Androvius Lafhen.md",
-    "docs/Personajes/Fausto Durnham.md",
-    "docs/Objetos Mágicos/Objetos Mágicos.md",
-    "docs/NPCs/Hondonada del Halcón/Vamros Harg.md",
-    "docs/Imagenes/Pasted image 20250303201511.png",
-    "docs/Handouts/Crónicas de Shavaros Vade/Capítulo 1.md",
-    "docs/Imagenes/Pasted image 20250303200746.png",
-    "docs/NPCs/Hondonada del Halcón/Trotavisco Alforjacantos.md",
-    "docs/NPCs/Hondonada del Halcón/Thuldrin Kreed.md",
-    "docs/Imagenes/Pasted image 20250303195745.png",
-    "docs/NPCs/Hondonada del Halcón/Thalsin Kreed.md",
-    "docs/Imagenes/Pasted image 20250303195408.png",
-    "docs/NPCs/Hondonada del Halcón/Masa Samkil.md",
-    "docs/Imagenes/Pasted image 20250303194114.png",
-    "docs/NPCs/Hondonada del Halcón/Karnus Samkil.md",
-    "docs/NPCs/Hondonada del Halcón/Loran Durnham.md",
-    "docs/NPCs/Hondonada del Halcón/Liselle Durnham.md",
-    "docs/NPCs/Hondonada del Halcón/Laurel Gebre.md",
-    "docs/Imagenes/Pasted image 20250303193645.png",
-    "docs/NPCs/Hondonada del Halcón/Larko.md",
-    "docs/Personajes/Audar Gadsel.md",
-    "docs/Imagenes/Pasted image 20250303193432.png",
     "mkdocs.yml",
     "docs/Trama/Sesiones",
     "docs/Trama/Flashbacks",
