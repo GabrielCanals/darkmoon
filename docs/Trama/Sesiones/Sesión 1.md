@@ -14,7 +14,7 @@
 - [[Garloc Gut]]
 - [[Athôr Arafir]]
 - [[Nestro Nocte]]
-- [[Lord Azshe]]
+- [[Lord Azjshe]]
 
 ### Resumen
 
@@ -86,7 +86,7 @@ Si Dedalete ha sido descubierto, se acerca a la mesa y pregunta llorando si le p
 
 Androvius insiste en que deberían descansar, que de todas formas solo son unos jóvenes inexpertos y que no tiene sentido que vaguen por ahí. Si insisten en que quieren volver a casa, les dirá que está bien, y que no lo va a impedir. Hará lo que necesiten para ayudarles y tras pensar un minuto, cree tener una idea. No quiere darles falsas esperanzas, pero por la mañana les llevará a un sitio donde podrán poner a prueba sus capacidades y ver si están preparados para los que les espera en las tierras de Garund.
 
-Al día siguiente, Androvius les acompaña a través de Tilxar hacia una especie de templo, bajando unas escaleras llegan a una antesala, que da paso a una sala de mayor tamaño. Dentro se encuentran dos personas, Nestro, el ser esquelético del día anterior y [[Lord Azshe]]. Androvius les pide que pase sin ellos, que ya está todo preparado para el entrenamiento.
+Al día siguiente, Androvius les acompaña a través de Tilxar hacia una especie de templo, bajando unas escaleras llegan a una antesala, que da paso a una sala de mayor tamaño. Dentro se encuentran dos personas, Nestro, el ser esquelético del día anterior y [[Lord Azjshe]]. Androvius les pide que pase sin ellos, que ya está todo preparado para el entrenamiento.
 
 El entrenamiento consiste en tres rondas de tres lecciones vitales. La primera consiste en aprender a matar cuando alguien o algo está dispuesto a matarte. En esta ronda Lord Azshe invocará a un esqueleto con espada que querrá enfrentarse a los protagonistas. La segunda consiste en la unidad, el grupo tiene que estar cohesionado para evitar que no se muera nadie. En este caso, Lord Azshe invocará tres esqueletos en los flancos débiles de los protagonistas. La última ronda consiste en huir, pues hay batallas por las que no merece la pena morir. En esta última ronda, Lord Azshe creará una imagen mayor de un Elemental de Fuego. El elemental acudirá a enfrentarse a ellos a toda prisa envolviéndose en su propio fuego, dándoles espacio para un turno. Si no se retiran el elemental se lanzará sobre ellos, desapareciendo en el acto.
 
@@ -103,3 +103,6 @@ Vaatara informa a los protagonistas de que partirán al amanecer, que no tienen 
 Si vuelven a casa de Androvius, este les deja pasar la noche ahí, los alimenta y les entrega una bolsa con pociones, las que le ha dado tiempo de preparar (3 de curación y 1 de mejorar habilidad).
 
 La partida termina con la party yéndose al día siguiente con la caravana de Vaatara, compuesta de tres carros guiados por cada uno de los tres miembros ya conocidos y un caballo batidor.
+
+---
+

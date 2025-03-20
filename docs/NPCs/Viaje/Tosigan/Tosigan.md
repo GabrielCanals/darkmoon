@@ -1,0 +1,25 @@
+### Miembros
+
+- [[Wilhelmina Ford]]  - Jefa de la banda
+- [[Darla Vientotriste]] - Mejor amiga de Wilhelmina
+- [[Hisia Monder]] - Cantante y bailarina, le encanta el ambiente de la banda y la vida de viaje.
+- [[Oshon Mollyn]] - 
+- [[Grinshaw Rohan]] - Señora mayor, madre de Oshon. Dejó partir a Oshon con la condición de acompañarle.
+- [[Derson]]
+- [[Bella Micon]]
+- [[Lumos Micon]]
+- [[Rin Serpendia]]
+- [[Sauss Liol]]
+- [[Tonmar Alen]]
+- [[Abigail Arsem]]
+- [[Kail Arsem]]
+- [[Avaril Font]]
+- [[Tilly Solnocturno]]
+- [[Sulwin Alaia]]
+- [[Khomorra Alaia]]
+- [[Remmi Sammer]] - 
+- [[Brerowny]] - Mago estafador que está escapando de la horca en Sargava
+- [[Padre Laudcar]] - Clérigo borracho al que recogieron en la foresta mwangi
+- [[Kin Manaire]]
+- [[Calia Manaire]]
+- [[Margat Dorei]]
