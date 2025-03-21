@@ -1,0 +1,1 @@
+![[Leonardo_Vision_XL_dnd_medieval_old_hobbit_Derek_Ting_full_bod_3.jpg]]
