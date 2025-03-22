@@ -1,0 +1,1 @@
+![[AlbedoBase_XL_A_night_image_of_a_lot_of_bushes_in_the_forest_b_0.jpg]]
