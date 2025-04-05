@@ -1,0 +1,1 @@
+![[Leonardo_Vision_XL_A_dark_fantasy_illustration_featuring_an_ol_0.jpg]]
