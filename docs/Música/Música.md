@@ -4,6 +4,7 @@ Combate parte 1 - https://www.youtube.com/watch?v=8Q7cioftmKs&list=PLPkQh2SAuabE
 Combate - https://www.youtube.com/watch?v=FnOEGvEKFSQ&list=PL9PLUrw0CbcSx6jZ5sO1W8wY_P0QsiVkb&index=2
 
 viaje- https://www.youtube.com/watch?v=iYxxqKZhcK4
+viaje2- https://www.youtube.com/watch?v=L8MsNJEfySY
 
 taberna - https://www.youtube.com/watch?v=GPEcDF4kmV4
 taberna - https://www.youtube.com/watch?v=Ig91Z0-rBfo
