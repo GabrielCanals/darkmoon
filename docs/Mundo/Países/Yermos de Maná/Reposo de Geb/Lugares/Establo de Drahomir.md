@@ -1,6 +1,6 @@
 ## 🐎 Establo de Drahomir – Trasfondo**
 
-**Drahomir**, el herrador y cuidador de caballos del pueblo, tiene una **reputación legendaria** por su conexión con los animales. Cuando su voz suave no basta para calmar una bestia, su **tamaño descomunal y fuerza bruta** suelen ser más que suficientes.
+**[[Drahomir]]**, el herrador y cuidador de caballos del pueblo, tiene una **reputación legendaria** por su conexión con los animales. Cuando su voz suave no basta para calmar una bestia, su **tamaño descomunal y fuerza bruta** suelen ser más que suficientes.
 
 Sus dos asistentes también son físicamente imponentes… aunque palidecen a su lado. Drahomir **mantiene las monturas del pueblo en perfecto estado**, pero hace **mejores negocios como intermediario de bienes robados**.
 

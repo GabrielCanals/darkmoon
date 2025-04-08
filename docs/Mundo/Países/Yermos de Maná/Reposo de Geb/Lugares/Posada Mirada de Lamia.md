@@ -2,7 +2,7 @@
 
 El _Hotel Lockstar_ es propiedad de **Reuben Barrera**, quien hizo su fortuna durante la primera fiebre del oro. Aunque las vetas de oro se han agotado desde entonces, todavía se pueden encontrar abundantes depósitos de plata… y ocasionalmente materiales más exóticos, en las colinas donde Reuben pasa la mayor parte de su tiempo.
 
-La gestión diaria del hotel está a cargo de **Madame Frieda**, una mujer imponente como una montaña, de naturaleza meticulosa y con un odio visceral por la suciedad y la mala higiene. Las habitaciones del Lockstar están abiertas a cualquiera… siempre que estén limpios, o al menos dispuestos a tomar un baño antes de poner un pie en alguna de sus impolutas estancias. Muchos de los clientes más frecuentes del _Saloon Deadeye_ tienen la entrada permanentemente prohibida por esta razón.
+La gestión diaria del hotel está a cargo de **[[Madame Frieda]]**, una mujer imponente como una montaña, de naturaleza meticulosa y con un odio visceral por la suciedad y la mala higiene. Las habitaciones del Lockstar están abiertas a cualquiera… siempre que estén limpios, o al menos dispuestos a tomar un baño antes de poner un pie en alguna de sus impolutas estancias. Muchos de los clientes más frecuentes del _Saloon Deadeye_ tienen la entrada permanentemente prohibida por esta razón.
 
 El hotel, sin embargo, hace buenos negocios con viajeros, comerciantes y aventureros de paso. Frieda puede parecer casi maternal con quienes pagan por adelantado y siguen sus reglas al pie de la letra. Solo recuerda limpiarte bien las botas antes de entrar
 

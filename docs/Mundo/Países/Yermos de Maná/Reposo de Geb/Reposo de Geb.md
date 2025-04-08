@@ -2,13 +2,6 @@ Reposo de Geb fue uno de los primeros grandes asentamientos fronterizos en surgi
 
 La vida tan alejada de la civilización, al filo de un territorio hostil y salvaje, ha forjado a su gente en la dureza. Cada día es una lucha contra lo desconocido. Y sin embargo, a pesar de las diferencias de personalidad, fe y moral, la comunidad ha sobrevivido hasta ahora.
 
-*En las últimas semanas ha surgido un nuevo y desconcertante peligro. Una enfermedad desconocida se extiende por Reposo de Geb, desatando una locura frenética y un hambre caníbal incontrolable entre los infectados. Lo más inquietante es que no pueden ser fácilmente detenidos: muchos se levantan incluso después de recibir heridas mortales, como si una voluntad impía los impulsara a seguir.*
-
-*El Dr. Sawyer tiene algunas teorías, pero nadie sabe con certeza qué está causando esta plaga. Muchos empiezan a sospechar que está relacionada con los extraños rituales que el Padre Bennett realiza cada noche en las cavernas bajo la iglesia, peligrosamente cerca del manantial que abastece al pueblo (y, más aún, a los destiladores clandestinos que surten a las fincas y ranchos).*
-
-*Solo la Madre Ira parece tener una sospecha real de que el Padre Bennett guarda secretos más allá de la fe… pero no dirá una sola palabra.*
-
-
 ### Lugares
 
 1. [[Orfanato de Reposo de Geb]]

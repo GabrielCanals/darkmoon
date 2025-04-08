@@ -2,7 +2,7 @@
 
 Las tierras libres sobre las que se asienta el pueblo no pertenecen exactamente al Imperio… al menos no una vez que se compran. Aun así, el Imperio sigue ejerciendo cierta influencia sobre el **Frontera** y su gente. Dada la gran distancia y su **baja prioridad**, esta voluntad imperial se representa mediante un **alcalde**, elegido por y entre los propios habitantes del pueblo.
 
-El actual alcalde, **Edimund Triskeller**, lleva casi **20 años en el cargo**, cinco mandatos completos. Un logro impresionante considerando que **ningún alcalde anterior sobrevivió al primero**. Esto se debe principalmente a su estilo único de gobierno: Triskeller siempre encuentra un punto medio. No ve mal **aceptar o entregar un soborno**, **doblar alguna que otra norma**, o incluso **lanzar una amenaza bien dirigida**, siempre que **sea por el bien general del pueblo**.
+El actual alcalde, **[[Edimund Triskeller]]**, lleva casi **20 años en el cargo**, cinco mandatos completos. Un logro impresionante considerando que **ningún alcalde anterior sobrevivió al primero**. Esto se debe principalmente a su estilo único de gobierno: Triskeller siempre encuentra un punto medio. No ve mal **aceptar o entregar un soborno**, **doblar alguna que otra norma**, o incluso **lanzar una amenaza bien dirigida**, siempre que **sea por el bien general del pueblo**.
 
 El alcalde trabaja desde su oficina sobre la **Oficina Cívica**, un edificio que combina la oficina postal y la redacción del periódico regional. Además de sus deberes oficiales, **Triskeller dirige un negocio privado de tasación de oro y gemas**, asegurando que todos los objetos de valor pasen, de un modo u otro, por sus manos.
 
