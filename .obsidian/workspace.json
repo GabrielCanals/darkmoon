@@ -81,14 +81,26 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/Imagenes/ChatGPT Image 12 abr 2025, 07_14_08 p.m..png"
+                "file": "docs/Imagenes/Pasted image 20250412200054.png"
               },
               "icon": "lucide-image",
-              "title": "ChatGPT Image 12 abr 2025, 07_14_08 p.m."
+              "title": "Pasted image 20250412200054"
+            }
+          },
+          {
+            "id": "ea03944d7f8ec038",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Imagenes/Pasted image 20250412200054.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250412200054"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -278,22 +290,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcc4a932049b8ddb",
+  "active": "47634d20244c8b9d",
   "lastOpenFiles": [
+    "docs/Imagenes/Pasted image 20250412200047.png",
+    "docs/Imagenes/Pasted image 20250412200054.png",
+    "docs/NPCs/Reposo de Geb/Thomas Bennett.md",
+    "docs/Trama/Sesiones/Sesión 4.md",
+    "docs/NPCs/Reposo de Geb/Liondra Alshir.md",
+    "docs/Trama/Sesiones/Sesión 3.md",
+    "docs/index.md",
+    "docs/Imagenes/ChatGPT Image 12 abr 2025, 07_14_08 p.m..png",
     "docs/Imagenes/Pasted image 20250412193830.png",
     "docs/Imagenes/Pasted image 20250412175828.png",
     "Untitled 1.md",
     "Untitled.md",
-    "docs/Imagenes/ChatGPT Image 12 abr 2025, 07_14_08 p.m..png",
     "docs/Enemigos/Ángel Mímico.md",
     "docs/Enemigos/Mímico.md",
-    "docs/Trama/Sesiones/Sesión 4.md",
     "docs/NPCs/Reposo de Geb/Drahomir.md",
     "docs/NPCs/Reposo de Geb/Edimund Triskeller.md",
-    "docs/NPCs/Reposo de Geb/Liondra Alshir.md",
     "docs/NPCs/Reposo de Geb/Madame Frieda.md",
     "docs/NPCs/Reposo de Geb/Sheriff Somni Tancat.md",
-    "docs/NPCs/Reposo de Geb/Thomas Bennett.md",
     "docs/Enemigos/Giant Hyena.md",
     "docs/Enemigos/Death Dog.md",
     "docs/Imagenes/Pasted image 20250412175551.png",
@@ -302,19 +318,15 @@
     "docs/Enemigos/Gnolls.md",
     "docs/Imagenes/Pasted image 20250412175448.png",
     "docs/Imagenes/Pasted image 20250412175442.png",
-    "docs/Imagenes/Pasted image 20250412175425.png",
     "docs/Enemigos/Banshee.md",
-    "docs/Imagenes/Pasted image 20250412175333.png",
     "docs/Enemigos/Wight.md",
     "docs/Objetos Mágicos/Objetos Mágicos.md",
     "docs/Personajes/Audar Gadsel.md",
     "docs/Personajes/Serena Foxleaf.md",
     "docs/Personajes/Toric Vef.md",
-    "docs/Trama/Sesiones/Sesión 3.md",
     "docs/Trama/Sesiones/Sesión 2.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Taberna del Ojomuerto.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Textiles del Gran Sam.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb",
     "docs/NPCs/Reposo de Geb",
