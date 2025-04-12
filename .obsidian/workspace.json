@@ -27,16 +27,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Taberna del Ojomuerto.md",
+                "file": "docs/Enemigos/Banshee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taberna del Ojomuerto"
+              "title": "Banshee"
+            }
+          },
+          {
+            "id": "af925da336c6bda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Enemigos/Gnolls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gnolls"
+            }
+          },
+          {
+            "id": "224b5c01c6a6ba4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Enemigos/Death Dog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Death Dog"
+            }
+          },
+          {
+            "id": "768ea0ae1b8b3f87",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Imagenes/Pasted image 20250412193830.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250412193830"
+            }
+          },
+          {
+            "id": "dcc4a932049b8ddb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Imagenes/ChatGPT Image 12 abr 2025, 07_14_08 p.m..png"
+              },
+              "icon": "lucide-image",
+              "title": "ChatGPT Image 12 abr 2025, 07_14_08 p.m."
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,45 +278,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15b25f51a89ed6cf",
+  "active": "dcc4a932049b8ddb",
   "lastOpenFiles": [
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Taberna del Ojomuerto.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Textiles del Gran Sam.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Posada Mirada de Lamia.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Oficina de la Doctora Sawyer.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Oficina de Gestión Civil.md",
-    "docs/NPCs/Reposo de Geb/Madame Frieda.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_3 (1).jpg",
-    "docs/NPCs/Por si acaso.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_0 (2).jpg",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Reposo de Geb.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Iglesia de Reposo de Geb.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Guardia del Pueblo.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Establo de Drahomir.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Banco de Reposo de Geb.md",
-    "docs/Música/Ambiente.md",
+    "docs/Imagenes/Pasted image 20250412193830.png",
+    "docs/Imagenes/Pasted image 20250412175828.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "docs/Imagenes/ChatGPT Image 12 abr 2025, 07_14_08 p.m..png",
+    "docs/Enemigos/Ángel Mímico.md",
+    "docs/Enemigos/Mímico.md",
+    "docs/Trama/Sesiones/Sesión 4.md",
     "docs/NPCs/Reposo de Geb/Drahomir.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_1.jpg",
-    "docs/NPCs/Reposo de Geb/Thomas Bennett.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_3.jpg",
     "docs/NPCs/Reposo de Geb/Edimund Triskeller.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_0 (1).jpg",
-    "TC_Driftwood Caverns_Key.jpg",
-    "docs/NPCs/Reposo de Geb/Doctora Sawyer Rans.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_full_body_illustration_featu_0.jpg",
-    "docs/Imagenes/TC_Driftwood Caverns_Key.jpg",
+    "docs/NPCs/Reposo de Geb/Liondra Alshir.md",
+    "docs/NPCs/Reposo de Geb/Madame Frieda.md",
+    "docs/NPCs/Reposo de Geb/Sheriff Somni Tancat.md",
+    "docs/NPCs/Reposo de Geb/Thomas Bennett.md",
+    "docs/Enemigos/Giant Hyena.md",
+    "docs/Enemigos/Death Dog.md",
+    "docs/Imagenes/Pasted image 20250412175551.png",
+    "docs/Imagenes/Pasted image 20250412175544.png",
+    "docs/Imagenes/Pasted image 20250412175538.png",
+    "docs/Enemigos/Gnolls.md",
+    "docs/Imagenes/Pasted image 20250412175448.png",
+    "docs/Imagenes/Pasted image 20250412175442.png",
+    "docs/Imagenes/Pasted image 20250412175425.png",
+    "docs/Enemigos/Banshee.md",
+    "docs/Imagenes/Pasted image 20250412175333.png",
+    "docs/Enemigos/Wight.md",
+    "docs/Objetos Mágicos/Objetos Mágicos.md",
     "docs/Personajes/Audar Gadsel.md",
+    "docs/Personajes/Serena Foxleaf.md",
+    "docs/Personajes/Toric Vef.md",
+    "docs/Trama/Sesiones/Sesión 3.md",
+    "docs/Trama/Sesiones/Sesión 2.md",
+    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Taberna del Ojomuerto.md",
+    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
+    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Textiles del Gran Sam.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb",
-    "docs/Mundo/Países/Andoran/Hondonada del Halcón/Hondonada del Halcón.md",
-    "docs/Mundo/Países/Andoran/Hondonada del Halcón/Hondonada del Halcón.png",
-    "docs/Trama/Sesiones/Sesión 4.md",
-    "docs/Trama/Sesiones/Sesión 3.md",
-    "docs/Imagenes/Leonardo_Vision_XL_A_dark_fantasy_illustration_featuring_an_ol_0.jpg",
-    "docs/NPCs/Fundamentales/Velyndra Vade.md",
-    "docs/Música/Música.md",
-    "docs/NPCs/Reposo de Geb/Liondra Alshir.md",
     "docs/NPCs/Reposo de Geb",
     "docs/NPCs/Patrón",
     "docs/NPCs/Familia de Vade",
