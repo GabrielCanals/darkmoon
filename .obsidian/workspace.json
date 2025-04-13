@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
+                "file": "docs/NPCs/Por si acaso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tienda de Colter"
+              "title": "Por si acaso"
             }
           }
         ],
@@ -304,8 +304,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5eabad3722fad42a",
+  "active": "47634d20244c8b9d",
   "lastOpenFiles": [
+    "docs/Imagenes/Pasted image 20250413153546.png",
+    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
     "docs/NPCs/Fundamentales/Lorian Locke.md",
     "docs/Personajes/Serena Foxleaf.md",
     "docs/NPCs/Reposo de Geb/Big Sam.md",
@@ -314,7 +316,6 @@
     "docs/Imagenes/Pasted image 20250413145334.png",
     "docs/Imagenes/Pasted image 20250413145330.png",
     "docs/NPCs/Reposo de Geb/Jesse y Maybelle Colter.md",
-    "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Tienda de Colter.md",
     "docs/Imagenes/Pasted image 20250411182748.png",
     "docs/NPCs/Reposo de Geb/Drahomir.md",
     "docs/Imagenes/Pasted image 20250413144048.png",
@@ -341,7 +342,6 @@
     "docs/Enemigos/Ángel Mímico.md",
     "docs/Enemigos/Mímico.md",
     "docs/NPCs/Reposo de Geb/Edimund Triskeller.md",
-    "docs/NPCs/Reposo de Geb/Madame Frieda.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb",
     "docs/NPCs/Reposo de Geb",
