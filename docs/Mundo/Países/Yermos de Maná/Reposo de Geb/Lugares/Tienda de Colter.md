@@ -1,6 +1,6 @@
 ### 🧰 **Colter’s Hardware Emporium – Trasfondo**
 
-El **Emporio de Herramientas Colter** es propiedad y está gestionado por las hermanas **Jesse** y **Maybelle Colter**. Las chicas perdieron a sus padres a una edad temprana, y para sobrevivir en los duros Yermos de Maná, se unieron a una de las bandas que operan desde las colinas cercanas.
+El **Emporio de Herramientas Colter** es propiedad y está gestionado por las hermanas [[Jesse y Maybelle Colter]]. Las chicas perdieron a sus padres a una edad temprana, y para sobrevivir en los duros Yermos de Maná, se unieron a una de las bandas que operan desde las colinas cercanas.
 
 **Jesse** se adaptó rápidamente y se volvió una tiradora experta, letal a larga distancia. **Maybelle**, aunque cumplía con su parte, jamás mostró gusto por aquella vida. Jesse, sabiendo esto y queriendo algo mejor para su hermana, encontró una salida.
 
