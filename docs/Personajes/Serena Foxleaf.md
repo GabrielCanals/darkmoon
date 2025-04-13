@@ -1,3 +1,6 @@
+Hija de Harlon el tres dedos (se corto dos en el aserradero y lleva un guante de cuero)
+
+Su patrón es [[Lorian Locke]]
 ### Objetos Mágicos
 
 ![[Pasted image 20250302124619.png]]![[Pasted image 20250302124708.png]]
