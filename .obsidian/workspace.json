@@ -91,12 +91,14 @@
             "id": "ea03944d7f8ec038",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/Imagenes/Pasted image 20250413142358.png"
+                "file": "docs/NPCs/Reposo de Geb/Drahomir.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250413142358"
+              "icon": "lucide-file",
+              "title": "Drahomir"
             }
           }
         ],
@@ -292,9 +294,10 @@
   },
   "active": "47634d20244c8b9d",
   "lastOpenFiles": [
+    "docs/Imagenes/Pasted image 20250413144048.png",
+    "docs/Imagenes/Pasted image 20250413142358.png",
     "docs/NPCs/Reposo de Geb/Detectives Gurnac y Aleic Green.md",
     "docs/Imagenes/Pasted image 20250413142407.png",
-    "docs/Imagenes/Pasted image 20250413142358.png",
     "docs/Imagenes/Pasted image 20250413110602.png",
     "docs/Imagenes/Pasted image 20250413134534.png",
     "docs/Música/Música.md",
