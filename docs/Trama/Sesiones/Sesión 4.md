@@ -43,6 +43,6 @@ El clérigo del pueblo, [[Thomas Bennett]], ha exhumado cadáveres antiguos de l
 
 #### Misiones secundarias
 
-- Una de las minas fue capturada por una banda de gnolls. La misión consiste en sacarlos de allí, vivos o muertos para poder seguir extrayendo maná de las piedras preciosas.
-- U
+- Una de las minas fue capturada por una banda de gnolls. La misión consiste en sacarlos de allí, vivos o muertos para poder seguir extrayendo maná de las piedras preciosas. (100 po cada uno si limpian el lugar, cualquier información adicional se añadirá a la recompensa).
+- Hace dos semanas llegó un comerciante afirmando que le atacó una bestia pequeña y negra. Al matarla explotó, provocándole quemaduras. (150 po cada uno si logran encontrar y capturar una de esas criaturas con vida)
 
