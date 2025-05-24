@@ -1,0 +1,1 @@
+Combate contra los Gnolls a las afueras de la mina. Escucharon una explosión y regresaron al pueblo. Un par de niños habían empezado a morir de sed. Luego regresan a la mina y descienden.
