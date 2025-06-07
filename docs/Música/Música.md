@@ -10,6 +10,8 @@ Reposo de Geb - https://www.youtube.com/watch?v=aMxtdlDMiMo&list=PL7e-65HqcGc8Sr
 Reposo de Geb 2 - https://www.youtube.com/watch?v=qsZvzxB8CZA&list=PL7e-65HqcGc8Sr1kuyVZBl9XFn5KtgX7d&index=17
 Reposo de Geb Combate - https://www.youtube.com/watch?v=4oWV2PTK9mc&list=PL7e-65HqcGc8Sr1kuyVZBl9XFn5KtgX7d&index=20
 
+misterio - https://www.youtube.com/watch?v=7wBzL62Va1k&list=PLYRmKZBwiZg1uJJ6ulukHyKouHTuj_K_i
+
 taberna - https://www.youtube.com/watch?v=GPEcDF4kmV4
 taberna - https://www.youtube.com/watch?v=Ig91Z0-rBfo
 Vaatara y Garloc - https://www.youtube.com/watch?v=6ntLSzBE7RQ

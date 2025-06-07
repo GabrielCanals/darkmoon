@@ -127,18 +127,30 @@
             "id": "e73a3b628268b1ed",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Imagenes/Pasted image 20250607110248.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250607110248"
+            }
+          },
+          {
+            "id": "3992a3b9a99a6559",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Trama/Sesiones/Sesión 6.md",
+                "file": "docs/Mundo/Países/Yermos de Maná/Alkenstar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 6"
+              "title": "Alkenstar"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "contrab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,18 +341,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73a3b628268b1ed",
+  "active": "3992a3b9a99a6559",
   "lastOpenFiles": [
-    "docs/Enemigos/Gnolls.md",
+    "docs/Trama/Sesiones/Sesión 2.md",
+    "docs/Mundo/Países/Andoran/Hondonada del Halcón/Lugares/La Dama Roja.md",
+    "docs/Trama/Sesiones/Sesión 7.md",
+    "docs/Trama/Sesiones/Sesión 4.md",
+    "docs/Trama/Sesiones/Sesión 5.md",
+    "docs/Trama/Sesiones/Sesión 3.md",
+    "docs/NPCs/Reposo de Geb/Liondra Alshir.md",
     "docs/Trama/Sesiones/Sesión 6.md",
+    "docs/Imagenes/Pasted image 20250607105917.png",
+    "docs/Imagenes/Pasted image 20250607110248.png",
+    "docs/Enemigos/Rastreador Escurridizo.md",
+    "docs/Música/Música.md",
+    "docs/Enemigos/Gnolls.md",
     "docs/Objetos Mágicos/Monolith.md",
     "docs/Imagenes/Pasted image 20250524130501.png",
     "docs/Objetos Mágicos/Objetos Mágicos.md",
     "docs/Imagenes/Pasted image 20250524122305.png",
     "docs/Imagenes/2f7d6630-7e36-417a-8fa8-5f202007ebcc.png",
     "docs/NPCs/Reposo de Geb/Drionaldo Argué.md",
-    "docs/Trama/Sesiones/Sesión 4.md",
-    "docs/Trama/Sesiones/Sesión 5.md",
     "docs/Imagenes/Pasted image 20250504113828.png",
     "docs/Imagenes/Pasted image 20250504113847.png",
     "docs/Enemigos/Bone Naga.md",
@@ -355,16 +377,8 @@
     "docs/NPCs/Reposo de Geb/Big Sam.md",
     "docs/Imagenes/Pasted image 20250413150416.png",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares/Textiles del Gran Sam.md",
-    "docs/Imagenes/Pasted image 20250413145334.png",
-    "docs/Imagenes/Pasted image 20250413145330.png",
     "docs/NPCs/Reposo de Geb/Jesse y Maybelle Colter.md",
     "docs/NPCs/Reposo de Geb/Drahomir.md",
-    "docs/NPCs/Reposo de Geb/Detectives Gurnac y Aleic Green.md",
-    "docs/Música/Música.md",
-    "docs/Handouts/Taberna Reposo de Geb.md",
-    "docs/Handouts/Yermos de Maná.md",
-    "docs/Handouts/Noche en los Yermos de Maná.md",
-    "docs/Enemigos/Giant Hyena.md",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb/Lugares",
     "docs/Mundo/Países/Yermos de Maná/Reposo de Geb",
     "docs/NPCs/Reposo de Geb",

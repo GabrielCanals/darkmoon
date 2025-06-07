@@ -1,0 +1,1 @@
+Alkenstar es la capital de los Yermos de Maná. Actualmente gobernado por la Magistraduría General de Alkenstar, con Lord Tirwell a la cabeza. Actualmente, la Compañía del Águila Gris está traficando con material de Maná refinado modificado malversando con Lord Tirwell.
